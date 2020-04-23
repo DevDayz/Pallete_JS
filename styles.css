@@ -43,7 +43,7 @@ canvas {
 .controls__btns button:active {
   transform: scale(0.9);
 }
-.controls__colorBundle {
+.controls__colorSet {
   display: flex;
 }
 .controls__color {
